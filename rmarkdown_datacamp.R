@@ -23,6 +23,7 @@
 ### 2. Apresenta os elementos: códigos, textos e metadados;
 ### 3. O arquivos R Markdown apresenta um cabeçalho YAML, texto e código em chunk;
 ### 4. A partir do Kinit podemos gerar um arquivo R Markdown;
-### 5. Códigos em chunks que são adicionados através de crases (backticks).
+### 5. Códigos em chunks que são adicionados através de crases (backticks) e com o "r" dentro de
+### chaves. Dentro desses chunks podem ser adicionadas diversas opções de códigos.
 
 
