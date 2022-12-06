@@ -16,3 +16,11 @@ organizar relatórios usando opções de códigos em chunks, criar listas e tabe
 índices. Pelo fim do curso, você irá ter as habilidades que você necessita para adicionar as
 fontes das suas marcas e cores usando parâmetros e Cascading Style Sheets (CSS), para fazer
 seus relatórios se destacar.
+
+## Atributos do R Markdown
+
+1. Resultados reproduzíveis (os códigos podem ser alterados para gerar resultados atualizados);
+2. Apresenta os elementos: códigos, textos e metadados;
+3. O arquivos R Markdown apresenta um cabeçalho YAML, texto e código em chunk;
+4. A partir do Kinit podemos gerar um arquivo R Markdown;
+5. Códigos em chunks que são adicionados através de crases (backticks) e com o "r" dentro de chaves. Dentro desses chunks podem ser adicionadas diversas opções de códigos.
