@@ -22,6 +22,7 @@
 ### 1. Resultados reproduzíveis (os códigos podem ser alterados para gerar resultados atualizados);
 ### 2. Apresenta os elementos: códigos, textos e metadados;
 ### 3. O arquivos R Markdown apresenta um cabeçalho YAML, texto e código em chunk;
-### 4. A partir do Kinit podemos gerar um arquivo R Markdown.
+### 4. A partir do Kinit podemos gerar um arquivo R Markdown;
+### 5. Códigos em chunks que são adicionados através de crases (backticks).
 
 
